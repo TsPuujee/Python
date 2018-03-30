@@ -5,6 +5,7 @@ Created on Thu Jan 18 21:26:40 2018
 @author: Geek
 
 Newton-Raphson-ны язгуур гаргах арга
+
 """
 алдаа = 0.000000000001
 тоо = 64
