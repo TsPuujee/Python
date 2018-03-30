@@ -4,7 +4,7 @@ Created on Fri Jan 19 17:53:25 2018
 
 @author: Geek
 
-Стек массив
+Стек массив ашигласан.
 """
 import random as R
 
