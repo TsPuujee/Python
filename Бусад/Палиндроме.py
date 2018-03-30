@@ -5,6 +5,7 @@ Created on Thu Jan 18 21:44:54 2018
 @author: Geek
 
 Палиндроме үг шалгах
+
 """
 
 def Шалга(s):
