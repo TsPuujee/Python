@@ -4,7 +4,7 @@ Created on Fri Jan 19 19:41:04 2018
 
 @author: Geek
 
-Стек холбоост
+Стек холбоост жагсаалт
 """
 import random as R
 
