@@ -4,7 +4,7 @@ Created on Fri Jan 19 21:02:15 2018
 
 @author: Geek
 
-Дараалал холбоост
+Дараалал: холбоост жагсаалт
 """
 import random as R
 
