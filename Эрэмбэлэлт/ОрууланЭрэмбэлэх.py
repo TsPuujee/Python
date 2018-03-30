@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 29 14:29:06 2018
+Created on Thu Mar 29 14:23:28 2018
 
 @author: geeks
-
-
-Selection Sort
 """
 
 import random as санамсаргүй
@@ -17,15 +14,16 @@ def дүүргэ():
         түр=санамсаргүй.randint(1,210)
         дар.append(түр)
 
-def СонгонЭрэмбэлэх(дар):
-    for i in range(1, len(дар)):
-        j = i
-        while j > 0 and дар[j-1] > дар[j]:
-            дар[j-1], дар[j] = дар[j], дар[j-1]
-            j -= 1
+def ОрууланЭрэмбэлэх(дар):
+    урт = len(дар)
+    for i in range(урт):
+        бага = i
+        for k in range(i + 1, урт):
+            if дар[k] < дар[бага]:
+                бага = k
+        дар[бага], дар[i] = дар[i], дар[бага]
     return дар
-    
 дүүргэ()
 print(дар)
-print(СонгонЭрэмбэлэх(дар))
+print(ОрууланЭрэмбэлэх(дар))
 
