@@ -4,7 +4,7 @@ Created on Fri Jan 19 20:26:24 2018
 
 @author: Geek
 
-дараалал массив
+Дараалал: массив ашиглаж хэрэгжүүлсэн.
 """
 import random as R
 
