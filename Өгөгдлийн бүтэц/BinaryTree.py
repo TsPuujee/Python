@@ -5,6 +5,7 @@ Created on Fri Jan 19 18:36:36 2018
 @author: Geek
 
 Хоёртын хайлтын мод
+
 """
 import collections as col
 import random as R
