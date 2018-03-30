@@ -4,6 +4,7 @@
 Created on Thu Mar 29 14:23:28 2018
 
 @author: geeks
+
 """
 
 import random as санамсаргүй
