@@ -3,6 +3,8 @@
 Created on Fri Jan 19 21:45:04 2018
 
 @author: Geek
+
+N*M хугацааны үнэлгээтэй эрэмбэлт
 """
 import random as R
 from collections import defaultdict
