@@ -3,6 +3,8 @@
 Created on Fri Jan 19 21:52:57 2018
 
 @author: Geek
+
+NLogN хугацааны үнэлгээтэй эрэмбэлтүүд
 """
 import random as R
 import heapq
