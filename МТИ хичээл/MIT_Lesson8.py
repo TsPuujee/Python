@@ -8,6 +8,7 @@ Created on Fri Jan 19 12:24:55 2018
 #################
 ## EXAMPLE: simple Цэг class
 #################
+
 class Цэг(object):
     def __init__(self, x, y):
         self.x = x
