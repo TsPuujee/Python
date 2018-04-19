@@ -3,6 +3,8 @@
 Created on Fri Jan 19 00:31:57 2018
 
 @author: Geek
+
+Анхны Тоо
 """
 def шалга(a):
     if a<2 or (a%2==0 and a!=2) :
