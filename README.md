@@ -1,7 +1,8 @@
 # Хялбар Python
 Python хэл дээр өгөгдлийн хялбар бүтцүүд болон өгөгдлийн эрэмбэлэлийн хялбар алгоритмуудийн хэрэгжүүлэлтийг харуулав.
 > git clone https://github.com/TsPuujee/Python
-Spyder Pycharm, Jupyter, vscode, atom
+
+[Spyder](https://www.spyder-ide.org/) [Pycharm](https://www.jetbrains.com/pycharm/), [Jupyter](https://jupyter.org/), [vscode](https://code.visualstudio.com/), [atom](https://atom.io/)
 
 ### Агуулга
 - MIT python хичээлийн жишээ бодлогууд
