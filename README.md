@@ -1,9 +1,13 @@
 # Хялбар Python
 Python хэл дээр өгөгдлийн хялбар бүтцүүд болон өгөгдлийн эрэмбэлэлийн хялбар алгоритмуудийн хэрэгжүүлэлтийг харуулав.
 
-[Заавар үзэх](https://github.com/TsPuujee/Python/blob/master/%D0%B7%D0%B0%D0%B0%D0%B2%D0%B0%D1%80.md)
 
-> git clone https://github.com/TsPuujee/Python
+## [Заавар үзэх](https://github.com/TsPuujee/Python/blob/master/%D0%B7%D0%B0%D0%B0%D0%B2%D0%B0%D1%80.md)
+
+
+` git clone https://github.com/TsPuujee/Python`
+
+
 
 [Spyder](https://www.spyder-ide.org/) [Pycharm](https://www.jetbrains.com/pycharm/), [Jupyter](https://jupyter.org/), [vscode](https://code.visualstudio.com/), [atom](https://atom.io/)
 
