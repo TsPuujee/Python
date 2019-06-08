@@ -38,4 +38,5 @@ Python хэл дээр өгөгдлийн хялбар бүтцүүд болон
   * Turtle ашигласан зарим жишээ
 - Matplotlib 
 - Зарим нэг сонирхолтой бодлогууд
+  * Tomohiko Sakamoto’s Algorithm
 
